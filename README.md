@@ -8,6 +8,7 @@ Serving as a reference for future projects
 
 Sharing code with others who are learning Python
 
-Notes Scripts are written for Python 3.9
+Notes:
+Scripts are written for Python 3.9
 
 Some examples may include extra comments for learning purposes
