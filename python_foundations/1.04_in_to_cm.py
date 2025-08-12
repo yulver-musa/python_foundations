@@ -1,8 +1,9 @@
-# input the data for the inches
+# Input the data for the inches. The number is decimal,
+# which is not excluding the whole numbers as well.
 a = float(input())
-# multiplication of inches to cm
+# Multiplication of inches to cm.
 b = 2.54
-# convert the inches to cm
+# Convert the inches to cm.
 cm = a * b
-# print the cm
+# Print the cm.
 print(cm)
