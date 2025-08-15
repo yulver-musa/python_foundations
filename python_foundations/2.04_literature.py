@@ -1,3 +1,5 @@
+# Calculate the days needed for each book to be red.
+
 count_of_pages = int(input())
 pages_per_hour = int(input())
 count_of_days = int(input())
