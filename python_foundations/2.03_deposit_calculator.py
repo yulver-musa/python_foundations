@@ -1,3 +1,5 @@
+# To calculate the monthly interes
+
 deposit = float(input())
 terms = int(input())
 percent = float(input())
