@@ -1,3 +1,26 @@
+# Program Task:
+# Write a program that calculates the total cost of renovation, given the following prices:
+# • Protective nylon: 1.50 BGN per square meter
+# • Paint: 14.50 BGN per liter
+# • Paint thinner: 5.00 BGN per liter
+#
+# Additional rules:
+# • Add 10% more paint than needed
+# • Add 2 extra square meters of nylon
+# • Add 0.40 BGN for bags
+# • The labor cost for 1 hour of work is equal to 30% of the total cost of the materials
+#
+# Input:
+# The input comes from the console, with exactly 4 lines:
+# 1. Required nylon in square meters (integer, [1…100])
+# 2. Required paint in liters (integer, [1…100])
+# 3. Required thinner in liters (integer, [1…30])
+# 4. Hours needed for the workers to finish the job (integer, [1…9])
+#
+# Output:
+# Print a single line to the console:
+# • "{the total cost of the renovation}"
+
 cover = int(input())
 paint = int(input())
 diluter = int(input())
