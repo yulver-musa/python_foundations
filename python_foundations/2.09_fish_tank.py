@@ -1,3 +1,8 @@
+# Aquarium:
+# Input: length cm, width cm, height cm, percent taken by sand/equipment.
+# 1 liter = 1 dm³.
+# Output: liters of water the aquarium can hold.
+
 length_cm = int(input())
 width_cm = int(input())
 height_cm = int(input())
