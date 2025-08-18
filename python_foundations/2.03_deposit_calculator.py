@@ -1,4 +1,4 @@
-# To calculate the monthly interes
+# To calculate the monthly interest
 
 deposit = float(input())
 terms = int(input())

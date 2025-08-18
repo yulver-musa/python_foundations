@@ -1,3 +1,7 @@
+# Ani from class 10B needs pens, markers, and board cleaner.
+# Prices: pens=5.80, markers=7.20, cleaner=1.20 per liter.
+# Input: packs of pens, packs of markers, liters cleaner, discount%.
+# Output: total amount after discount.
 pkts_of_pens = int(input())
 pkts_of_markers = int(input())
 ltrs_of_cleaner = int(input())
