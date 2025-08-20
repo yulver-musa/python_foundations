@@ -1,3 +1,6 @@
+# Figure area calculator: read shape (square, rectangle,
+# circle, triangle) and dimensions, print area rounded to 3 decimals.
+
 from math import pi
 
 figure = input()
