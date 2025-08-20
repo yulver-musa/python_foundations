@@ -1,3 +1,5 @@
+# Speed classifier: read speed and print "slow", "average",
+# "fast", "ultra fast", or "extremely fast".
 speed = float(input())
 
 if speed <= 10:
