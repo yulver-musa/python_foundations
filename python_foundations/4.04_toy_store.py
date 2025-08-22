@@ -1,3 +1,9 @@
+# Petya sells toys and wants to check if her earnings cover a vacation.
+# Input: vacation cost + number of each toy type.
+# Prices: puzzle 2.6, doll 3, bear 4.1, minion 8.2, truck 2.
+# If 50+ toys → 25% discount. Then 10% rent is deducted.
+# Output: whether money is enough and how much is left/needed (2 decimals).
+
 vacation_cost = float(input())
 puzzles_count = int(input())
 dolls_count = int(input())
