@@ -1,3 +1,15 @@
+# Time + 15 Minutes
+# Write a program that:
+#  - Reads hours and minutes from a 24-hour day, entered by the user.
+#  - Calculates what the time will be after 15 minutes.
+#  - Prints the result in the format hours:minutes.
+#
+# Rules:
+#  - Hours are always between 0 and 23.
+#  - Minutes are always between 0 and 59.
+#  - Hours can be printed with one or two digits (e.g., 0, 5, 12, 23).
+#  - Minutes must always be printed with two digits (e.g., 05, 09, 30).
+
 hours = int(input())
 minutes = int(input())
 
